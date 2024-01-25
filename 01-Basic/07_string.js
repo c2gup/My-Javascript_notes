@@ -6,9 +6,9 @@
 
 const gameName = new String('Anupam Gupta');
 
-// console.log(gameName);
-// console.log(gameName[0]);
-// console.log(gameName.__proto__);
+console.log(gameName);
+console.log(gameName[0]);
+console.log(gameName.__proto__);
 
 //  console.log(gameName.toUpperCase());
 //  console.log(gameName.length);
